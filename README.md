@@ -44,6 +44,10 @@ The included case study demonstrates how Responsible AI principles can be applie
 
 No proprietary systems, data, or client-specific implementations are referenced.
 
+## Personal Reflection: Responsible AI & Ethics
+
+[![Responsible AI Reflection Video](https://img.youtube.com/vi/6ggXch-kJnc/hqdefault.jpg)](https://youtu.be/6ggXch-kJnc)
+
 ## Intended Audience
 - AI and Data Leaders
 - Enterprise Architects
