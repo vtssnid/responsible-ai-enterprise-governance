@@ -29,6 +29,12 @@ The proposed lifecycle follows a **Prepare – Validate – Serve** model:
 
 This lifecycle ensures Responsible AI is integrated into delivery workflows, not bolted on after deployment.
 
+## Responsible AI Governance Lifecycle
+![Responsible AI Governance Lifecycle](artifacts/governance_lifecycle.png)
+
+## AI Risk and Governance Controls
+![AI Risk and Governance Controls](artifacts/risk_control_matrix.png)
+
 ## Case Study
 The included case study demonstrates how Responsible AI principles can be applied to an enterprise AI system, covering:
 - Ethical risk identification
